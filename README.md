@@ -16,11 +16,23 @@ Unbeknownst to Michael, diggers keep stealing our ATMs so we aren’t carrying a
 # Approach
 I wanted to create something that would work on a touchscreen ATM. So big easy to see and touch buttons and text. I also wanted it to be responsive and combine pages like balance, overdraft, returning card were possible.
 
-# Installation / Running
+# Installation / Local Server / Run Tests
 ```bash
-  npm install - install packages
-  npm run dev - run local server
-  npm run test - run tests
+  npm install
+  npm run dev
+  npm run test
 ```
 
 # Tech
+React, axios, vite, vitest, react-testing-libary, react-icons, bootstrap
+
+# Limitations
+With more time I would have like to have added a good bit of polish. Right now, I feel like it is a solid first draft, with more time I would have wanted to do a good ol' refactor, add more tests, responsive tweaks and few other bits and pieces.
+
+# Screenshots
+![screenshot 1](https://github.com/stevenmcstravog/react-atm/blob/main/screenshot-1.png)
+![screenshot 2](https://github.com/stevenmcstravog/react-atm/blob/main/screenshot-2.png)
+![screenshot 3](https://github.com/stevenmcstravog/react-atm/blob/main/screenshot-3.png)
+![screenshot 4](https://github.com/stevenmcstravog/react-atm/blob/main/screenshot-4.png)
+![screenshot 5](https://github.com/stevenmcstravog/react-atm/blob/main/screenshot-5.png)
+
