@@ -31,8 +31,16 @@ With more time I would have like to have added a good bit of polish. Right now, 
 
 # Screenshots
 ![screenshot 1](https://github.com/stevenmcstravog/react-atm/blob/main/screenshot-1.png)
+
+
 ![screenshot 2](https://github.com/stevenmcstravog/react-atm/blob/main/screenshot-2.png)
+
+
 ![screenshot 3](https://github.com/stevenmcstravog/react-atm/blob/main/screenshot-3.png)
+
+
 ![screenshot 4](https://github.com/stevenmcstravog/react-atm/blob/main/screenshot-4.png)
+
+
 ![screenshot 5](https://github.com/stevenmcstravog/react-atm/blob/main/screenshot-5.png)
 
